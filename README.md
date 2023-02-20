@@ -40,7 +40,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes" width="100%">
 
 <!--奖杯-->
-<img src="https://github-profile-trophy.vercel.app/?username=ZhouBlackDuck&theme=onedark" alt="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ZhouBlackDuck&theme=onedark&no-frame=true" alt="trophy" width="100%">
 
 <!--
 **ZhouBlackDuck/ZhouBlackDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
