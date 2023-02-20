@@ -39,8 +39,7 @@
 <!--名言-->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes" width="100%">
 <!--GitHub数据统计-->
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language"></center>
+<center class="test"><img src="https://github-readme-stats.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language"></center>
 
 <!--
 **ZhouBlackDuck/ZhouBlackDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
