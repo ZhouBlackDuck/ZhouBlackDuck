@@ -46,6 +46,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language" height="165" width="49.5%">
 </div>
 
+<!--登录活动数据-->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZhouBlackDuck&theme=github&hide_border=true" alt="activity">
+
 <!--奖杯-->
 <img src="https://github-profile-trophy.vercel.app/?username=ZhouBlackDuck&theme=onedark&no-frame=true" alt="trophy" width="100%">
 
