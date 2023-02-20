@@ -39,6 +39,13 @@
 <!--名言-->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes" width="100%">
 
+<div>
+    <!--GitHub数据统计-->
+    <img src="https://github-readme-stats.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165" width="49.5%">
+    <!--语言统计-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language" height="165" width="49.5%">
+</div>
+
 <!--奖杯-->
 <img src="https://github-profile-trophy.vercel.app/?username=ZhouBlackDuck&theme=onedark&no-frame=true" alt="trophy" width="100%">
 
