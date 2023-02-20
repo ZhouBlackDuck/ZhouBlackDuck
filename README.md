@@ -19,16 +19,29 @@
 ### 🧰常用工具
 
 <div align="center">
+    <!--工具图标-->
     <img src="https://skillicons.dev/icons?i=github,gitlab,idea,matlab,visualstudio,androidstudio" alt="tools">
 </div>
 
 ### ⚰常用语言
 
 <div align="center">
+    <!--js-->
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0; margin-bottom: 50px;"/>
+    <!--python-->
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0; margin-bottom: 50px;"/>
+    <!--java-->
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0; margin-bottom: 0;"/>
 </div>
+
+---
+
+<!--名言-->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes">
+<!--GitHub数据统计-->
+<img src="https://github-readme-stats.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=tokyonight" alt="stats">
+<!--语言统计-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language">
 
 <!--
 **ZhouBlackDuck/ZhouBlackDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
