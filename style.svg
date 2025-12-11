@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <style>
-        #user-content-stats {
-            white-space: nowrap;
-        }
-    </style>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 600 165" width="600" height="165">
+    <foreignObject height="100%" width="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                #user-content-stats {
+                    white-space: nowrap;
+                }
+            </style>
+        </div>
+    </foreignObject>
 </svg>
