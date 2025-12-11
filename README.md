@@ -22,10 +22,10 @@
 
 <div>
     <!--GitHub数据统计-->
-    <img src="https://github-readme-stats-zhoublackduck.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165" width="49.5%">
+    <img src="https://github-readme-stats-zhoublackduck.vercel.app/api?username=ZhouBlackDuck&show_icons=true&theme=gruvbox&hide_border=true" alt="stats" height="165" width="49.5%">
     <!--语言统计-->
-    <img src="https://github-readme-stats-zhoublackduck.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact" alt="language" height="165" width="49.5%">
+    <img src="https://github-readme-stats-zhoublackduck.vercel.app/api/top-langs/?username=ZhouBlackDuck&layout=compact&theme=gruvbox" alt="language" height="165" width="49.5%">
 </div>
 
 <!--奖杯-->
-<img src="https://github-profile-trophy.vercel.app/?username=ZhouBlackDuck&theme=onedark&no-frame=true" alt="trophy" width="100%">
+<img src="https://github-profile-trophy-zhoublackduck.vercel.app/?username=ZhouBlackDuck&theme=gruvbox&no-frame=true&column=-1" alt="trophy" width="100%">
